@@ -29,4 +29,4 @@ puis redemarrer votre raspberry pi 5
 
 ![photo](ar.jpg)
 
-![photo](ardduino-ide.png)
+![photo](arduino-ide.png)
