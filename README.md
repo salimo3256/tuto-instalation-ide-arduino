@@ -27,3 +27,4 @@ sudo usermod -aG dialout $USER
 puis redemarrer votre raspberry pi 5
 
 
+[photo](ar.jpg)
